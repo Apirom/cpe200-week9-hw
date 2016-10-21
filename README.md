@@ -11,7 +11,7 @@ The objectives of this week are following:
 * Run the Java application in command line interface (without the IDE).
 
 Note: This project requires the 'cpe200-utils.jar' created from 'cpe200-utils' project
-https://github.com/cpe200-159-sec11/cpe200-util
+* https://github.com/cpe200-159-sec11/cpe200-util
 
 ##Post Abstract Class
 * Modify the class to 'abstract' class.
