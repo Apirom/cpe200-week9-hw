@@ -10,6 +10,9 @@ The objectives of this week are following:
 * Create Java archive (.jar) for Java console application.
 * Run the Java application in command line interface (without the IDE).
 
+Note: This project requires the 'cpe200-utils.jar' created from 'cpe200-utils' project
+https://github.com/cpe200-159-sec11/cpe200-util
+
 ##Post Abstract Class
 * Modify the class to 'abstract' class.
 * Add 'public abstract boolean containString(String)' method.
@@ -24,7 +27,7 @@ The objectives of this week are following:
 * Implements the 'matchString(String)' abstract method.
 * 'matchString()' returns TRUE if the string is the same as 'caption' property.
 
-##IListManageable Interface
+##ISearchable Interface
 * Provide two public interfaces (method signatures):
     * public int searchItem(String) : search for an item, given a string.
     * public boolean deleteItem(String) : delete an item, given a string.
